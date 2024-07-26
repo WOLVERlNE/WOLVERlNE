@@ -9,6 +9,6 @@ hi ponytowners read my shit
 </p>
 
 <p align="center">
-![read my carrd](https://wolfpool.carrd.co/)
+<a href="https://wolfpool.carrd.co/">read my carrd</a>
 </p>
 
